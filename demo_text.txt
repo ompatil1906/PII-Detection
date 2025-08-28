@@ -1,0 +1,12 @@
+Here are a few example sentences we currently support:
+
+Hi, my name is David Johnson and I'm originally from Liverpool.
+My credit card number is 4095-2609-9393-4932 and my crypto wallet id is 16Yeky6GMjeNkAiNcBY7ZhrLoMSgg1BoyZ.
+
+On 11/10/2024 I visited www.microsoft.com and sent an email to test@presidio.site,  from IP 192.168.0.1.
+
+My passport: 191280342 and my phone number: (212) 555-1234.
+
+This is a valid International Bank Account Number: IL150120690000003111111 . Can you please check the status on bank account 954567876544? 
+
+Kate's social security number is 078-05-1126.  Her driver license? it is 1234567A.

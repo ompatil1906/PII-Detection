@@ -1,0 +1,39 @@
+GST IN - 09AAPCS9575E1ZL, Kanpur Nagar - 209304
+Invoice Number
+IU167FT1J169379189
+Date
+16 December, 2022
+AWB Number
+2827719809855
+Payment Method
+Credit Card
+SHIP FROM
+Piyush Tyagi
+C-5, Sanjay Vihar , Avas Vikas , Meerut Road , Hapur,
+Hapur, uttar pradesh, 245101
+SHIP TO
+Harsh Singh Rajput
+293, Ground Floor,Urban State , Sector 7, Gurgaon,
+haryana, 122001
+ITEM
+ITEM VALUE
+SHIPPING CHARGES
+Consumables/FMCG - Non-perishable food items
+₹500.00
+₹138.98
+Delhivery Protect
+₹0.00
+SGST @ 9%
+₹12.51
+CGST @ 9%
+₹12.51
+Discount
+-₹0.00
+Invoice Total
+₹164.00
+Paid
+-₹164.00
+Amount Due
+₹0.00
+Delhivery LTD - Plot 5, Sector 44, Gurgaon 122002
+This is a system generated invoice and does not require additional authentication

@@ -1,0 +1,69 @@
+\vS/3S/Q380-7550/1090001004290
+
+Provider: Mateo Jackson, Phd
+
+Patient: John Doe
+
+Qo Not a Memorial Hospital
+~ Of Collier
+
+Reg: PN/S/11011.
+
+Contact: (999)-(888)
+
+Profit
+1234)
+
+Physician Hospital Discharge Summary
+
+Provider’s Pt ID: 00988277891 Patient Gender: Male
+
+Attachment Control Number: XA/7B/00338763
+
+Vi
+
+Admitted: 07-Sep-2020
+
+it (Encounter)
+
+Discharged: 08-Sep-2020
+
+Discharged to: Home with support services
+
+Assessment
+
+Reported Symptoms / History
+of present illness:
+
+Discharge
+
+Discharge Studies Summary:
+
+35 yo M c/o stomach problems since 2 montsh ago. Patient
+reports epigastric abdominal pain non-radiating. Pain is
+described as gnawing and burning, intermitent Tasting 1-2
+hours, and gotten progressively worse. Antacids used to
+alleviate_pain but not anymore; nothing exhacerbates pain.
+Pain unrelated to daytime or to meals, Patient denies
+constipation or diarrhea. Patient denies blood in stool but
+have noticed them darker. Patient also reports nausea.
+Denies recent illness or fever. He also reports fatigue
+since 2 weeks ago and bloating after eating.
+
+Patient ID: NARH-36640
+
+ROS: Negative except for above findings
+
+Meds: Motrin once/week. Tums previousty.
+
+PMHx: Back pain and muscle spasms. No Hx of surgery. NKDA.
+FHXx: Uncle has a bleeding ulcer.
+
+Social Hx: Smokes since 15 yo, 1/2-1 PPD. No recent EtOH
+use. Denies illicit drug use. works on high elevation
+construction. Fast food diet. Exercises 3-4 times/week but
+stopped 2 weeks ago.
+
+some activity restrictions puggested, full course of
+antibiotics, check back with physican in case of relapse,
+strict diet
