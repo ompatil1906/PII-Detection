@@ -1,2 +1,3 @@
 .venv
 streamlit_debug.log
+.env
