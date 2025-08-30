@@ -1,0 +1,113 @@
+Redacted Text: GST IN - 09AAPCS9575E1ZL, Kanpur Nagar - 209304
+Invoice Number
+IU167FT1J*********
+*********************
+*** Number
+*************
+Payment Method
+Credit Card
+SHIP FROM
+************
+***, ************ , ********** , ********************
+****************************
+SHIP TO
+******************
+**************************************************
+haryana, 122001
+ITEM
+ITEM VALUE
+SHIPPING CHARGES
+Consumables/FMCG - Non-perishable food items
+₹500.00
+₹138.98
+********* Protect
+₹0.00
+SGST @ 9%
+₹12.51
+CGST @ 9%
+₹12.51
+Discount
+-₹0.00
+Invoice Total
+₹164.00
+Paid
+-₹164.00
+Amount Due
+₹0.00
+*************** *********************************
+This is a system generated invoice and does not require additional authentication
+Entity: 169379189
+        Category: USSocialSecurityNumber
+        Confidence Score: 0.55
+        Offset: 72
+        Length: 9
+Entity: Date16 December, 2022
+        Category: DateTime
+        Confidence Score: 0.88
+        Offset: 82
+        Length: 21
+Entity: AWB
+        Category: Organization
+        Confidence Score: 0.91
+        Offset: 104
+        Length: 3
+Entity: 2827719809855
+        Category: PhoneNumber
+        Confidence Score: 0.65
+        Offset: 115
+        Length: 13
+Entity: Piyush Tyagi
+        Category: Person
+        Confidence Score: 1.0
+        Offset: 166
+        Length: 12
+Entity: C-5
+        Category: Address
+        Confidence Score: 0.57
+        Offset: 179
+        Length: 3
+Entity: Sanjay Vihar
+        Category: Person
+        Confidence Score: 0.94
+        Offset: 184
+        Length: 12
+Entity: Avas Vikas
+        Category: Person
+        Confidence Score: 0.92
+        Offset: 199
+        Length: 10
+Entity: Meerut Road , Hapur,
+        Category: Address
+        Confidence Score: 0.77
+        Offset: 212
+        Length: 20
+Entity: Hapur, uttar pradesh, 245101
+        Category: Address
+        Confidence Score: 0.91
+        Offset: 233
+        Length: 28
+Entity: Harsh Singh Rajput
+        Category: Person
+        Confidence Score: 1.0
+        Offset: 270
+        Length: 18
+Entity: 293, Ground Floor,Urban State , Sector 7, Gurgaon,
+        Category: Address
+        Confidence Score: 1.0
+        Offset: 289
+        Length: 50
+Entity: Delhivery
+        Category: Organization
+        Confidence Score: 0.63
+        Offset: 450
+        Length: 9
+Entity: Delhivery LTD -
+        Category: Organization
+        Confidence Score: 0.88
+        Offset: 577
+        Length: 15
+Entity: Plot 5, Sector 44, Gurgaon 122002
+        Category: Address
+        Confidence Score: 0.94
+        Offset: 593
+        Length: 33

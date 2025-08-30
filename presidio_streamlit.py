@@ -62,7 +62,7 @@ def process_text_input(text):
 
 
 def get_text_from_image(image):
-    client = boto3.client('textract', region_name=os.getenv('AWS_REGION', 'us-east-1'))
+    client = boto3.client('textract', region_name=os.getenv('AWS_REGION', 'us-west-2'))
     img_byte_arr = io.BytesIO()
     image.save(img_byte_arr, format=image.format if image.format else 'PNG')
     img_byte_arr = img_byte_arr.getvalue()
@@ -77,7 +77,7 @@ def get_text_from_image(image):
 
 
 def get_text_from_pdf(pdf_file):
-    client = boto3.client('textract', region_name='us-east-1')
+    client = boto3.client('textract', region_name='us-west-2')
     # Upload PDF to S3 for Textract processing
     s3_bucket = os.getenv('S3_BUCKET_NAME')
     s3_key = f'temp_pdfs/{os.path.basename(pdf_file.name)}'
